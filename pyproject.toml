@@ -2,7 +2,7 @@
 minversion = "6.0"
 addopts = "-ra -q"
 testpaths = [
-    "/test"
+    "test"
 ]
 python_files = "*test_*.py"
 junit_family = "legacy"

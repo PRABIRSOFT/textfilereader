@@ -2,6 +2,8 @@
 
 [![Docker](https://github.com/PRABIRSOFT/textfilereader/actions/workflows/docker-publish.yml/badge.svg?branch=main)](https://github.com/PRABIRSOFT/textfilereader/actions/workflows/docker-publish.yml)
 
+[![Python application](https://github.com/PRABIRSOFT/textfilereader/actions/workflows/app-test.yml/badge.svg)](https://github.com/PRABIRSOFT/textfilereader/actions/workflows/app-test.yml)
+
 This application can read content of given file as a http path parameter 
 and render properly it in HTML page. Any markup in that file is also preserved.
 Enduser can also read the file using line number given in a query param ex: start, end param
